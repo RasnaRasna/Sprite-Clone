@@ -1,0 +1,190 @@
+* {
+margin: 0;
+padding: 0;
+}
+.header{
+   display: flex;
+    background-color:rgb(0,155,78);
+    padding:10px ;
+    flex: 1;
+    width: 100%;
+    position: fixed;
+}
+.img{
+    margin-right: 37px;
+    width: 52%;
+    padding: -2px;
+    margin-top: 11px;
+
+}
+.list{
+    display: flex;
+
+}
+.s{
+    margin-right:20 px;
+    margin-top: 20px;
+   padding: 20px;
+   
+}
+/* remove under line */
+a{
+    text-decoration:none ;
+    color: white;
+     font-size: 16px; 
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+/* remove dots */
+ul{
+    list-style: none;
+   
+   
+}
+.mainimg1{
+    width: 100%;
+}
+
+
+.header{
+flex: 1;
+
+}
+.spritlogo{
+    flex: 1;
+}
+
+.redbox{
+   
+    background-color: crimson;
+    display: flex;  
+}
+.text1{
+    color: white;
+    padding: 20px;
+    width: 80%;
+}
+.fstbutton{
+    padding: 20px;
+}
+button{
+    color: white;
+    background-color: black;   
+    width: 200px;
+    font-size: x-large;
+}
+.text2 h1{
+   margin-left: 400px;
+   margin-top: 40px;
+  
+}
+.text2 p{
+    margin-left: 350px; 
+    margin-top: 50px;
+
+}
+ 
+.hed2{
+    height: 600px; 
+  
+}
+
+.hedd1{
+    height: 553px;
+}
+.hedd2 iframe{
+     margin-top: 100px; 
+    width: 700px;
+    margin-left: 350px;
+}
+.hed3{
+    display: flex;
+}
+.img2{
+    width: 50%;
+}
+.img3{
+    width: 50%;
+}
+.sec{
+    background-color:#009b4e;
+   
+}
+.sec3{
+       
+        margin-top: 39px;
+        margin-left: 251px;
+}
+
+.secc{
+    display: flex;
+}
+.sec1{
+
+}
+.icons{
+    display: flex;
+    margin-left: 220px;
+    margin-top: 57px;
+}
+.spritlgo{
+    margin-left: 63px;
+    padding: 40%;
+    margin-top: 12px;
+    width: 168px;
+}
+.connect{
+    color: white;
+    margin-top: 55px;
+    margin-left: 106px;
+}
+.product{
+  color: white; 
+  margin-right: 10px;
+  margin-top: 68px;
+}
+.ras{
+    margin-top: 55px;
+ 
+}
+.pro{
+    padding: 10px;
+}
+.threeetext{
+    padding: 30px;
+}
+.icon{
+    margin-right: 18px;
+    margin-top: 22px;
+}
+.face{
+    padding: 10px;
+}
+.material-icons{
+    margin-top: 22px;
+    color: white;
+    font-size: 40px;
+    margin-right: 47px;
+}
+.coca{
+
+background-color: #009b4e;
+
+
+}
+.cocacola{
+    color: white;
+    font-size: 25px;
+    margin-left: 418px;
+    padding: 25px;
+
+}
+.END{
+    color: white;
+    padding: 10px;
+}
+.endrow{
+    display: flex;
+    margin-left: 283px;
+    font-size: 20px;
+}
